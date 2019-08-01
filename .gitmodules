@@ -1,0 +1,4 @@
+[submodule "OSVVM"]
+	path = OSVVM
+	url = https://github.com/OSVVM/OSVVM.git
+
